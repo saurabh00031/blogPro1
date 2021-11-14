@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-(arme7^&1*=5^j&d5efoxig7#)%*hu0%$$75=8wvz2e1%+4hsf
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['sspblogapp.herokuapp.com']
 
 
 # Application definition
